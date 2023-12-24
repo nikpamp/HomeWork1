@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\CSharpPro\CSharpPro\bin\Debug\net7.0\CSharpPro.exe
+C:\Users\Admin\source\repos\CSharpPro\CSharpPro\bin\Debug\net7.0\CSharpPro.deps.json
+C:\Users\Admin\source\repos\CSharpPro\CSharpPro\bin\Debug\net7.0\CSharpPro.runtimeconfig.json
+C:\Users\Admin\source\repos\CSharpPro\CSharpPro\bin\Debug\net7.0\CSharpPro.dll
+C:\Users\Admin\source\repos\CSharpPro\CSharpPro\bin\Debug\net7.0\CSharpPro.pdb
+C:\Users\Admin\source\repos\CSharpPro\CSharpPro\obj\Debug\net7.0\CSharpPro.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CSharpPro\CSharpPro\obj\Debug\net7.0\CSharpPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CSharpPro\CSharpPro\obj\Debug\net7.0\CSharpPro.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CSharpPro\CSharpPro\obj\Debug\net7.0\CSharpPro.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CSharpPro\CSharpPro\obj\Debug\net7.0\CSharpPro.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CSharpPro\CSharpPro\obj\Debug\net7.0\CSharpPro.dll
+C:\Users\Admin\source\repos\CSharpPro\CSharpPro\obj\Debug\net7.0\refint\CSharpPro.dll
+C:\Users\Admin\source\repos\CSharpPro\CSharpPro\obj\Debug\net7.0\CSharpPro.pdb
+C:\Users\Admin\source\repos\CSharpPro\CSharpPro\obj\Debug\net7.0\CSharpPro.genruntimeconfig.cache
+C:\Users\Admin\source\repos\CSharpPro\CSharpPro\obj\Debug\net7.0\ref\CSharpPro.dll
